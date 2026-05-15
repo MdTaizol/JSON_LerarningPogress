@@ -1,0 +1,50 @@
+{
+    "STUDENT": [
+        {
+            "name": "Anisul Islam",
+            "midllename": null,
+            "age": 24,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "language": [
+                "English",
+                "Bangla",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "Name": "Anar",
+                    "Age": 27
+                },
+                {
+                    "Name": "shakil",
+                    "Age": 26
+                }
+            ]
+        }
+    ],
+    "Friend": [
+        {
+            "name": "Taizol Islam",
+            "midllename": null,
+            "age": 24,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "language": [
+                "English",
+                "Bangla",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "Name": "Anar",
+                    "Age": 27
+                },
+                {
+                    "Name": "shakil",
+                    "Age": 26
+                }
+            ]
+        }
+    ]
+}

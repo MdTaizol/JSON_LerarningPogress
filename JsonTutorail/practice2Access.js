@@ -1,0 +1,10 @@
+const data = require("./schemaPractice2.json");
+// console.log(data);
+// console.log(data.STUDENT[0]);
+// console.log(data.STUDENT[1]);
+// console.log(data.STUDENT[1].name="sujon");
+// console.log(delete data.STUDENT[1].name);
+// delete data.STUDENT[1].language[1];
+// console.log( data);
+delete data.STUDENT[1].friends[0].Name;
+console.log(data);
